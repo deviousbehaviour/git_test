@@ -1,0 +1,3 @@
+Smell-O World
+
+This is the beginnings of me using Linux to do code for the ODIN PROJECT, hopefully it's a good time.
